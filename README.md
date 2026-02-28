@@ -1,7 +1,7 @@
 # EMHASS Solar Diverter
 
 A lightweight, purely Python-based Home Assistant script that routes excess solar power (PV) to a variable water heater dimmer (like a Shelly Dimmer). 
-It features a built-in PID controller for real-time adjustments and native integration with **EMHASS** (Energy Management for Home Assistant).
+It features a built-in PID controller for real-time adjustments and native integration with [**EMHASS** (Energy Management for Home Assistant)](https://github.com/davidusb-geek/emhass).
 
 ## Features
 * **Real-time PID Control:** Rapidly adjusts the dimmer to keep grid export at exactly 0W.
