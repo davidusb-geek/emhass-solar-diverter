@@ -1,0 +1,6 @@
+{
+  "name": "EMHASS Solar Diverter",
+  "render_readme": true,
+  "description": "A PID-based solar power diverter script natively integrated with EMHASS.",
+  "category": "python_script"
+}
