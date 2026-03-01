@@ -75,7 +75,7 @@ Open `solar_power_diverter.py` and ensure the sensor names at the top match your
 ## Wiring Diagram
 Below is the electrical schematic for connecting the Shelly Dimmer to the water heater.
 
-![Electrical wiring diagram](docs/circuit_chauffe_eau_routeur_solaire.png)
+![Electrical wiring diagram](docs/circuit_chauffe_eau_routeur_solaire_nobypass.png)
 
 ## Automation
 Create an automation to call this script frequently (e.g., every 5 seconds) during the day. 
