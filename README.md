@@ -27,6 +27,7 @@ To replicate this setup, you will need:
 
 ### 1. The Controller: Shelly Dimmer 0/1-10V PM Gen3
 This acts as the brain of the hardware, taking the percentage output from the script and converting it into a physical 0-10V signal.
+* **Link:** [Shelly Dimmer 0/1-10V PM Gen3](https://www.shelly.com/fr/products/shelly-0-1-10v-dimmer-pm-gen3)
 * 🚨 **CRITICAL NOTE:** You must ensure the 0-10V output is **Current Sourcing**, NOT Current Sinking. The LCTC relay requires a sourcing signal to operate correctly. Check the Shelly specifications carefully before purchasing.
 
 ### 2. The Main Switching Device: LCTC DTY-220V40P1
